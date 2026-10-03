@@ -1,6 +1,5 @@
-# ML_ENG
-## This is a project for Machine Learning Engineer with Python
-## The aim of the project is to create high quailty machine learning and projects
+# Machine-learning engineering study notes
 
-### Link for the git HUB course
-https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python.git
+A learning repository with a reference to [Machine Learning Engineering with Python](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python).
+
+**Status:** reference notes only; no implementation or runnable examples are committed. The linked book repository is third-party work.
